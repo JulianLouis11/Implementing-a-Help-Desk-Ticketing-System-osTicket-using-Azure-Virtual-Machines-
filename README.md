@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Configure Departments
 - Configure Agents/ Team Members
 - Configure SLA
-- Configure Help Topics
+- Configure Help Topics, Tickets, & Replies.
 
 <h2>Implementation Examples</h2>
 
@@ -63,9 +63,10 @@ Adding new SLA Plans, e.g severity rating from A - C, alongside a grace period &
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fHL5Kdq.png"/>
 </p>
+<img src="https://i.imgur.com/EASf5GS.png"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adding help topics & opening up new tickets with issue summaries and a reply.
 </p>
 <br />
