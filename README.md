@@ -5,8 +5,8 @@
 <h1>osTicket - Post Installation</h1>
 This technology implementation outlines the post installation of the open-source help desk ticketing system osTicket.<br />
 
-
-
+<h2>Description</h2>
+This project consist of a simple use of OsTicket & it's different configurations of what was used & learned throughout this lab using Microsoft Azure. The need of roles were created in order to assign to agents, also departments were configured to create different responsibilities for agents within certain teams. SLA plans were made for upcoming tickets to assign severities from A to C for prioritizing tickets to agents. Help topics and tickets were made to have a better understanding of requirements to help out end users. 
 
 - ### 
 
