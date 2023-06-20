@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/dLsZw9h.png"/>
 </p>
 <p>
-Setting up new roles within the Admin Panel e.g Supreme Admin
+Constructing new roles within the Admin Panel e.g "Supreme Admin".
 </p>
 <br />
 
