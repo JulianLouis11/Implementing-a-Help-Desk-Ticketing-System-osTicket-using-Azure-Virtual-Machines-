@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Configure SLA
 - Configure Help Topics
 
-<h2>Installation Steps</h2>
+<h2>Implementation Examples</h2>
 
 <p>
 <img src="https://i.imgur.com/dLsZw9h.png"/>
