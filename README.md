@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,22 +20,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites to Install</h2>
+<h2>List of Implementation of Osticket</h2>
 
-- Enable/ Install (Internet Information Services IIS
-- PHP Manager For IIS
-- Rewrite Module
-- PHP 7.3.8
-- VC_redist.x86.exe
-- MYSQL 5.5.62
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure SLA
+- Configure Help Topics
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/RjCfP1P.png"/>
+<img src="https://i.imgur.com/dLsZw9h.png"/>
 </p>
 <p>
-Control Panel -> Programs -> Turn Windows features on or off. Next, scroll to Internet Information Sevices to check it then expand it to World Wide Web Services -> Application Development Features & check CGI. Collapse Application Development Features -> Common HTTP Features check all options & click OK.
+Setting up new roles within the Admin Panel e.g Supreme Admin
 </p>
 <br />
 
