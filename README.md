@@ -6,8 +6,7 @@
 This technology implementation outlines the post installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Description</h2>
-This project consists of a simple use of OsTicket & its different configurations of what was used & learned throughout this lab using Microsoft Azure. The need for roles was created in order to assign to agents, also departments were configured to create different responsibilities for agents within certain teams. SLA plans were made for upcoming tickets to assign severities from A to C for prioritizing tickets to agents. Help topics and tickets were made to have a better understanding of requirements to help out end users. 
-
+This project consists of a simple use of OsTicket & its different configurations of what was used & learned throughout this lab using Microsoft Azure. Roles were made for the project, so agents may be assigned to departments to have responsibilities for particular teams. SLAs helped with upcoming tickets for the severities of a business impact level from A to C. Help topics were then made, along with business tickets, to understand the requirements for issues of end users throughout this project lab. 
 - ### 
 
 <h2>Environments and Technologies Used</h2>
