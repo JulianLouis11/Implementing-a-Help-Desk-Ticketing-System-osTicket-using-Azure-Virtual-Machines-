@@ -3,14 +3,14 @@
 </p>
 
 <h1>osTicket - Post Installation</h1>
-This technology implementation outlines the post installation of the open-source help desk ticketing system osTicket.<br />
+This technology implementation outlines the post-installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Description</h2>
 This project consists of a simple use of OsTicket & its different configurations of what was used & learned throughout this lab using Microsoft Azure. Roles were made for the project, so agents may be assigned to departments to have responsibilities for particular teams. SLAs helped with upcoming tickets for the severities of a business impact level from A to C. Help topics were then made, along with business tickets, to understand the requirements for issues of end users throughout this project lab. 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 - Localhost/OsTicket
